@@ -2,4 +2,5 @@
 
 int main(){
 	std::cout << "Hello World" << std::endl;
+	std::cout << "up-to-date" << std::endl;
 }
